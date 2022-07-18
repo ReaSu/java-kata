@@ -4,6 +4,8 @@ out
 .classpath
 .settings
 .project
+.idea
+.scripts
 
 *.iws
 *.ipr
