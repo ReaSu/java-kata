@@ -1,9 +1,5 @@
-.gradle
-build
-out
-.classpath
-.settings
-.project
-
-*.iws
+target/
+.idea/
+out/
+*.iml
 *.ipr
