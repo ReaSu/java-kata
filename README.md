@@ -2,14 +2,14 @@
 
 Deliberate Practice mit [Eike](https://github.com/ewssential).
 
-A minimal setup with Java, [JUnit5](https://junit.org/junit5/), [AssertJ](https://assertj.github.io/doc/) and [Mockito](https://site.mockito.org/), based on the kata-bootstraps by [swkBerlin](https://github.com/swkBerlin/kata-bootstraps).
+A minimal setup with Java 14, [JUnit5](https://junit.org/junit5/), [AssertJ](https://assertj.github.io/doc/) and [Mockito](https://site.mockito.org/), based on the kata-bootstraps by [swkBerlin](https://github.com/swkBerlin/kata-bootstraps).
 
-This project is run with [maven](https://maven.apache.org/)
+This project is run with [Maven](https://maven.apache.org/)
 
 ## Setup
 
     git clone https://github.com/ReaSu/java-kata.git
-    cd deliberate-practice
+    cd java-kata
 
 ## Running Tests
 
